@@ -1,13 +1,13 @@
-package com.chanbinme.springbootjavatemplate;
+package com.chanbinme;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootJavaTemplateApplication {
+public class CoreApiApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringBootJavaTemplateApplication.class, args);
+        SpringApplication.run(CoreApiApplication.class, args);
     }
 
 }

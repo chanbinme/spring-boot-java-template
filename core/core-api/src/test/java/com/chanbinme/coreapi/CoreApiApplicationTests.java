@@ -1,10 +1,10 @@
-package com.chanbinme.springbootjavatemplate;
+package com.chanbinme.coreapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBootJavaTemplateApplicationTests {
+class CoreApiApplicationTests {
 
     @Test
     void contextLoads() {
